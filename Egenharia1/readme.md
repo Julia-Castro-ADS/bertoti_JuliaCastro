@@ -1,3 +1,7 @@
+_Engenharia de software 1 - 2026_
+
+_Professor Giuliano Bertoti_
+
 ### Software intangível
 
 Os termos "engenharia de software" e "programação" tem sido utilizados como sinônimos, porém possuem ênfase e implicções diferentes. Assim como em outrs ramificações da engenharia os engenheiros de software também criam "algo real", embora sejam criaçõs menos tangíveis que as crições de outros engenheiros. Além disso, existe diferença na rigorosidade da teoria e prática atual da engenharia de software e das outras.
